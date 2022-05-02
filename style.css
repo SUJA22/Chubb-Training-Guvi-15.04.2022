@@ -13,7 +13,7 @@ body{
 #container{
     margin-top: 0px;
     border-radius: 25px;
-
+    position:relative;
 }
 #page{
     background-color: rgb(102, 77, 127);
@@ -58,6 +58,7 @@ font-size: 40px;
     align-items: center;
     text-align: center;
     color: rgb(237, 225, 225);
+
 }
 #third{
     display: flex;
@@ -78,6 +79,7 @@ font-size: 40px;
     background-color: #B3B0B9;
     gap:20px;
     transform: skewY(-5deg);
+ 
 }
 #fourth{
     display: flex;
